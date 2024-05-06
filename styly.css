@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+.o-nas {
+    background-color: blueviolet;
+}
+a {
+    color: cyan;
+}
+footer {
+    background-color: gray;
+    padding: 1rem;
+}
